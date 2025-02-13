@@ -1,0 +1,18 @@
+flowchart TD
+    subgraph Retos_de_seguridad_OT [Retos de la Seguridad OT]
+        R1[Sistemas heredados]
+        R2[Convergencia IT/OT]
+        R3[Escasez de personal especializado]
+    end
+
+    subgraph Responsable_de_Planta [Responsable de Planta]
+        P1[Evolución del rol: incorporar ciberseguridad]
+        P2[Colaboración estrecha con IT]
+        P3[Capacitación y adaptación]
+    end
+
+    subgraph CIO [CIO]
+        C1[Liderazgo en la convergencia IT/OT]
+        C2[Inversión en tecnologías unificadas]
+        C3[Enfoque estratégico y colaborativo]
+    end
